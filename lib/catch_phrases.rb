@@ -14,5 +14,5 @@ def link
 end
 
 def any_phrase(phrase)
-  puts ""
+  puts "Do A Barrel Roll!"
 end 
